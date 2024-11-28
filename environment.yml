@@ -1,0 +1,9 @@
+name: step-to-label
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pythonocc-core
+  - pillow
